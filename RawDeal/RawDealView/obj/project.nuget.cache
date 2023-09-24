@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JRDTohtQt/+tbEbn17+3FPsDdrMZe9/fS6S5Pco5ZxjE9mQhcNpJ9AyL/DTyLhvgdK5tad6qpPqxr+H7s0v1jg==",
+  "success": true,
+  "projectFilePath": "/Users/frandg/Downloads/RawDeal/RawDealView/RawDealView.csproj",
+  "expectedPackageFiles": [
+    "/Users/frandg/.nuget/packages/microsoft.netcore.app.ref/6.0.21/microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "/Users/frandg/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.21/microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
